@@ -21,6 +21,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/50px-HTML5_logo_and_wordmark.svg.png?20170517184425" width="50" height="50" alt="HTML" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="React" />
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="100" height="50" alt="React" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="TailwindCSS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" alt="Node.js" />
 <img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" height="50" alt="Render" />
