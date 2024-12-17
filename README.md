@@ -27,9 +27,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="80" height="30" alt="Express.js" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png?20211024200826" width="100" height="30" alt="Postman" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/76px-Jira_Logo.svg.png?20230123125334" width="90" height="30" alt="Jira" />
-  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/1920px-Netlify_logo_%282%29.svg.png" width="80" height="30" alt="Netlify" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/CorelDraw_logo_%282%29.svg/1920px-CorelDraw_logo_%282%29.svg.png" width="100" height="30" alt="CorelDRAW" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/CorelDraw_logo_%282%29.svg/1920px-CorelDraw_logo_%282%29.svg.png" width="110" height="30" alt="CorelDRAW" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" height="40" alt="Figma" />
 </p>
 
