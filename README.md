@@ -17,7 +17,8 @@
 ## 🛠️ Languages and Tools:
 
 
-<p align="center">
+
+<p style="display: flex; gap: 5px; flex-wrap: wrap; align-items: center; justify-content: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/50px-JavaScript-logo.png?20120221235433" width="50" height="50" alt="JavaScript" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/50px-HTML5_logo_and_wordmark.svg.png?20170517184425" width="50" height="50" alt="HTML" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS" />
@@ -33,6 +34,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/CorelDraw_logo_%282%29.svg/1920px-CorelDraw_logo_%282%29.svg.png" width="110" height="30" alt="CorelDRAW" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" height="40" alt="Figma" />
 </p>
+
 
 
 ---
