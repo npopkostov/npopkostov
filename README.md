@@ -16,16 +16,17 @@
 
 ## 🛠️ Languages and Tools:
 
-<p  style="display: flex; gap: 2px; flex-wrap: wrap;">
+
+<p style="display: flex; gap: 2px; flex-wrap: wrap;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/50px-JavaScript-logo.png?20120221235433" width="50" height="50" alt="JavaScript" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/50px-HTML5_logo_and_wordmark.svg.png?20170517184425" width="50" height="50" alt="HTML" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="React" />
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="100" height="50" alt="React" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="TailwindCSS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="React" />
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="100" height="70" alt="MongoDB" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" alt="Node.js" />
-<img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" height="50" alt="Render" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="80" height="30" alt="Express.js" />
+  <img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" height="50" alt="Render" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png?20211024200826" width="100" height="30" alt="Postman" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/76px-Jira_Logo.svg.png?20230123125334" width="90" height="30" alt="Jira" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/1920px-Netlify_logo_%282%29.svg.png" width="80" height="30" alt="Netlify" />
