@@ -56,6 +56,6 @@ Feel free to reach out to me for collaborations, projects, or just a casual chat
 
 ## 📚 Fun fact:
 "Non scholae sed vitae"  
-I have a degree in General Medicine, and while I transitioned into software development, I still find my medical background influences my approach to problem-solving and creating efficient, effective solutions!
+I have a degree in Medicine, and while I transitioned into software development, I still find my medical background influences my approach to problem-solving and creating efficient, effective solutions!
 
 ---
